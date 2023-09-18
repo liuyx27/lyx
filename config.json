@@ -1,0 +1,26 @@
+[
+    {
+        "backupFileName": "A.bak",
+        "backupFilePath": "C:/Users/asus/Desktop/A.bak",
+        "files": [
+            "excel.xlsx",
+            "test.txt",
+            "word.docx"
+        ],
+        "frequency": "每天",
+        "isCloud": "是",
+        "nextTime": "周一 10月 24 15:12:00 2022",
+        "password": ""
+    },
+    {
+        "backupFileName": "A.bak",
+        "backupFilePath": "C:/Users/asus/Desktop/A.bak",
+        "files": [
+            "test"
+        ],
+        "frequency": "每天",
+        "isCloud": "是",
+        "nextTime": "周二 10月 25 19:29:01 2022",
+        "password": "111"
+    }
+]

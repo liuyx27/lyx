@@ -1,0 +1,10 @@
+release/logindialog.o
+release/main.o
+release/strcoding.o
+release/widget.o
+release/settingdialog.o
+release/task.o
+release/qrc_images.o
+release/moc_logindialog.o
+release/moc_widget.o
+release/moc_settingdialog.o

@@ -1,0 +1,10 @@
+debug/logindialog.o
+debug/main.o
+debug/strcoding.o
+debug/widget.o
+debug/settingdialog.o
+debug/task.o
+debug/qrc_images.o
+debug/moc_logindialog.o
+debug/moc_widget.o
+debug/moc_settingdialog.o
